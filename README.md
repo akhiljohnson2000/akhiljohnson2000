@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @akhiljohnson2000
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Frontend open source projects
-- 📫 Reach me at akhiljohnson2000@gmail.com
+# Akhil Johnson
 
-<!---
-akhiljohnson2000/akhiljohnson2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Engineer focused on building clean, scalable, and high-performance web experiences.
+
+---
+
+## About
+I work on modern frontend systems with a strong focus on simplicity, performance, and user experience.  
+I enjoy turning ideas into polished, production-ready interfaces.
+
+---
+
+## Stack
+JavaScript · TypeScript · React · Next.js · Angular · Vue  
+SCSS · CSS Modules · Node.js · Vite · Webpack
+
+---
+
+## Interests
+Art · Electronics · Product Design
+
+---
+
+## Contact
+akhiljohnson2000@gmail.com
